@@ -1755,7 +1755,7 @@
     (uuid fff32fb1-21e7-4ab4-aea2-92db3747938f)
   )
 
-  (text "Make sure R3 and R4 are close to RP2040\n" (at 201.93 71.12 0)
+  (text "Make sure R1 and R2 are close to RP2040\n" (at 201.93 71.12 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 99b82ed4-4012-4933-be8e-285e306118ce)
   )
@@ -2936,7 +2936,7 @@
     (property "Value" "USB_C_Plug_USB2.0" (at 210.82 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal" (at 214.63 97.79 0)
+    (property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV" (at 214.63 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (at 214.63 97.79 0)
